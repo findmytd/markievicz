@@ -1,0 +1,299 @@
+.badge {
+  display: inline-block;
+  padding: 0.35rem 0.375rem;
+  font-size: 66%;
+  font-weight: 600;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  transition: all 0.15s ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  .badge {
+    transition: none;
+  }
+}
+
+a.badge:hover,
+a.badge:focus {
+  text-decoration: none;
+}
+
+.badge:empty {
+  display: none;
+}
+
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
+
+.europarl-member {
+  padding-right: 0.875em;
+  padding-left: 0.875em;
+  border-radius: 10rem;
+}
+
+.badge-primary {
+  color: #fff;
+  background-color: #5e72e4;
+}
+
+a.badge-primary:hover,
+a.badge-primary:focus {
+  color: #fff;
+  background-color: #324cdd;
+}
+
+a.badge-primary:focus,
+a.badge-primary.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(94, 114, 228, 0.5);
+}
+
+.badge-secondary {
+  color: #212529;
+  background-color: #f4f5f7;
+}
+
+a.badge-secondary:hover,
+a.badge-secondary:focus {
+  color: #212529;
+  background-color: #d6dae2;
+}
+
+a.badge-secondary:focus,
+a.badge-secondary.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(244, 245, 247, 0.5);
+}
+
+.badge-success {
+  color: #fff;
+  background-color: #2dce89;
+}
+
+a.badge-success:hover,
+a.badge-success:focus {
+  color: #fff;
+  background-color: #24a46d;
+}
+
+a.badge-success:focus,
+a.badge-success.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(45, 206, 137, 0.5);
+}
+
+.badge-info {
+  color: #fff;
+  background-color: #11cdef;
+}
+
+a.badge-info:hover,
+a.badge-info:focus {
+  color: #fff;
+  background-color: #0da5c0;
+}
+
+a.badge-info:focus,
+a.badge-info.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(17, 205, 239, 0.5);
+}
+
+.badge-warning {
+  color: #fff;
+  background-color: #fb6340;
+}
+
+a.badge-warning:hover,
+a.badge-warning:focus {
+  color: #fff;
+  background-color: #fa3a0e;
+}
+
+a.badge-warning:focus,
+a.badge-warning.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(251, 99, 64, 0.5);
+}
+.badge-danger {
+  color: #fff;
+  background-color: #f5365c;
+}
+
+a.badge-danger:hover,
+a.badge-danger:focus {
+  color: #fff;
+  background-color: #ec0c38;
+}
+
+a.badge-danger:focus,
+a.badge-danger.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(245, 54, 92, 0.5);
+}
+
+.badge-light {
+  color: #fff;
+  background-color: #adb5bd;
+}
+
+a.badge-light:hover,
+a.badge-light:focus {
+  color: #fff;
+  background-color: #919ca6;
+}
+
+a.badge-light:focus,
+a.badge-light.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(173, 181, 189, 0.5);
+}
+
+.badge-dark {
+  color: #fff;
+  background-color: #212529;
+}
+
+a.badge-dark:hover,
+a.badge-dark:focus {
+  color: #fff;
+  background-color: #0a0c0d;
+}
+
+a.badge-dark:focus,
+a.badge-dark.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(33, 37, 41, 0.5);
+}
+
+.badge-default {
+  color: #fff;
+  background-color: #172b4d;
+}
+
+.alde {
+  color: #fff;
+  background-color: #ED008C;
+  border:0.0625rem solid #ED008C;
+}
+
+.alde:hover,
+.alde:focus {
+  color: #fff;
+  background-color: #ED008C;
+}
+
+.badge-white {
+  color: #212529;
+  background-color: #fff;
+}
+
+a.badge-white:hover,
+a.badge-white:focus {
+  color: #212529;
+  background-color: #e6e6e6;
+}
+
+a.badge-white:focus,
+a.badge-white.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5);
+}
+
+.badge-neutral {
+  color: #212529;
+  background-color: #fff;
+}
+
+a.badge-neutral:hover,
+a.badge-neutral:focus {
+  color: #212529;
+  background-color: #e6e6e6;
+}
+
+a.badge-neutral:focus,
+a.badge-neutral.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5);
+}
+
+.badge-darker {
+  color: #fff;
+  background-color: black;
+}
+
+a.badge-darker:hover,
+a.badge-darker:focus {
+  color: #fff;
+  background-color: black;
+}
+
+a.badge-darker:focus,
+a.badge-darker.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.5);
+}
+.badge {
+    border: 0.0625rem solid #ffffff;
+  }
+  
+  .badge-pill {
+  padding-right: 0.875em;
+  padding-left: 0.875em;
+}
+
+.badge-circle {
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  font-size: .875rem;
+}
+
+.badge-inline {
+  margin-right: .625rem;
+}
+
+.badge-inline+span {
+  top: 2px;
+  position: relative;
+}
+
+.badge-inline+span>a {
+  text-decoration: underline;
+}
+
+.badge-md {
+  padding: .65em 1em;
+}
+
+.badge-lg {
+  padding: .85em 1.375em;
+}
+
+.badge-secondary {
+  color: #32325d;
+}
+
+.btn .badge:not(:first-child) {
+  margin-left: .5rem;
+}
+
+.btn .badge:not(:last-child) {
+  margin-right: .5rem;
+}
+.section-components .badge,
+margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+.section-components .badge {
+  margin-right: .1rem;
+}
