@@ -184,8 +184,9 @@ a.badge-dark.focus {
 
 .alde:hover,
 .alde:focus {
-  color: #fff;
-  background-color: #ED008C;
+  color: #ED008C;
+  background-color: #ffffff;
+  border: 0.0625rem solid #ED008C;
 }
 
 .badge-white {
