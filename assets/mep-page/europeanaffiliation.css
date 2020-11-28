@@ -36,9 +36,9 @@ a.badge:focus {
   border-radius: 10rem;
 }
 
-.badge-primary {
+.greens {
   color: #fff;
-  background-color: #5e72e4;
+  background-color: #008200;
 }
 
 a.badge-primary:hover,
@@ -298,3 +298,4 @@ margin-top: .5rem;
 .section-components .badge {
   margin-right: .1rem;
 }
+</style>
