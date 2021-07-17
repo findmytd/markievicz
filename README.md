@@ -5,6 +5,7 @@
  FindMyTD Markievicz - Static File Hosting for FindMyTD </h1>
 <p align="center">
   <a href="https://app.netlify.com/sites/findmytd-markievicz/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e0ef6e2c-d4e9-42cd-9e5b-ebaa62f20c40/deploy-status"></a>
+  <a href="https://github.com/findmytd/markievicz/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/markconroy/contact.ie"></a>
   <a href="https://github.com/findmytd/markievicz/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/findmytd/markievicz"></a>
  <a href="https://github.com/findmytd/markievicz/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/findmytd/markievicz"></a>
  <a href="https://github.com/findmytd/markievicz/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/findmytd/markievicz"></a>
