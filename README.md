@@ -2,7 +2,7 @@
   <img src="https://findmytd-markievicz.netlify.app/assets/logo/svg/large-blue.svg" alt="FindMyTD Logo" width="350" />
 
 <h1 align="center">
- FindMyTD Markievicz - Static File Hosting for FindMyTD </h1>
+ FindMyTD Markievicz</h1>
 <p align="center">
   <a href="https://app.netlify.com/sites/findmytd-markievicz/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e0ef6e2c-d4e9-42cd-9e5b-ebaa62f20c40/deploy-status"></a>
   <a href="https://github.com/findmytd/markievicz/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/markconroy/contact.ie"></a>
