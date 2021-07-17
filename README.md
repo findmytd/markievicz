@@ -1,6 +1,14 @@
-# FindMyTD Markievicz - Static File Hosting for FindMyTD
+<p align="center">
+  <img src="https://findmytd-markievicz.netlify.app/assets/logo/svg/large-blue.svg" alt="FindMyTD Logo" width="350" />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e0ef6e2c-d4e9-42cd-9e5b-ebaa62f20c40/deploy-status)](https://app.netlify.com/sites/findmytd-markievicz/deploys)
+<h1 align="center">
+ FindMyTD Markievicz - Static File Hosting for FindMyTD </h1>
+<p align="center">
+  <a href="https://app.netlify.com/sites/findmytd-markievicz/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e0ef6e2c-d4e9-42cd-9e5b-ebaa62f20c40/deploy-status"></a>
+  <a href="https://github.com/findmytd/markievicz/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/findmytd/markievicz"></a>
+ <a href="https://github.com/findmytd/markievicz/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/findmytd/markievicz"></a>
+ <a href="https://github.com/findmytd/markievicz/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/findmytd/markievicz"></a>
+ </p>
 
 Hello and welcome to FindMyTD's static hosting server, named after [Countess Markievicz](https://en.wikipedia.org/wiki/Constance_Markievicz "Constance Markievicz Wikipedia Page") - the first female cabinet Minister in Europe. 
 
